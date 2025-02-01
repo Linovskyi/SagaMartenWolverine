@@ -1,0 +1,11 @@
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/Shared.Abstractions/bin/Debug/net8.0/Shared.Abstractions.deps.json
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/Shared.Abstractions/bin/Debug/net8.0/Shared.Abstractions.dll
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/Shared.Abstractions/bin/Debug/net8.0/Shared.Abstractions.pdb
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/Shared.Abstractions/obj/Debug/net8.0/Shared.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/Shared.Abstractions/obj/Debug/net8.0/Shared.Abstractions.AssemblyInfoInputs.cache
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/Shared.Abstractions/obj/Debug/net8.0/Shared.Abstractions.AssemblyInfo.cs
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/Shared.Abstractions/obj/Debug/net8.0/Shared.Abstractions.csproj.CoreCompileInputs.cache
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/Shared.Abstractions/obj/Debug/net8.0/Shared.Abstractions.dll
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/Shared.Abstractions/obj/Debug/net8.0/refint/Shared.Abstractions.dll
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/Shared.Abstractions/obj/Debug/net8.0/Shared.Abstractions.pdb
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/Shared.Abstractions/obj/Debug/net8.0/ref/Shared.Abstractions.dll

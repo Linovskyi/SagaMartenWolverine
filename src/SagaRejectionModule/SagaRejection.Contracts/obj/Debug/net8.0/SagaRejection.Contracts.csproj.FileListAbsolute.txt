@@ -1,0 +1,11 @@
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/SagaRejectionModule/SagaRejection.Contracts/bin/Debug/net8.0/SagaRejection.Contracts.deps.json
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/SagaRejectionModule/SagaRejection.Contracts/bin/Debug/net8.0/SagaRejection.Contracts.dll
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/SagaRejectionModule/SagaRejection.Contracts/bin/Debug/net8.0/SagaRejection.Contracts.pdb
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/SagaRejectionModule/SagaRejection.Contracts/obj/Debug/net8.0/SagaRejection.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/SagaRejectionModule/SagaRejection.Contracts/obj/Debug/net8.0/SagaRejection.Contracts.AssemblyInfoInputs.cache
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/SagaRejectionModule/SagaRejection.Contracts/obj/Debug/net8.0/SagaRejection.Contracts.AssemblyInfo.cs
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/SagaRejectionModule/SagaRejection.Contracts/obj/Debug/net8.0/SagaRejection.Contracts.csproj.CoreCompileInputs.cache
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/SagaRejectionModule/SagaRejection.Contracts/obj/Debug/net8.0/SagaRejection.Contracts.dll
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/SagaRejectionModule/SagaRejection.Contracts/obj/Debug/net8.0/refint/SagaRejection.Contracts.dll
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/SagaRejectionModule/SagaRejection.Contracts/obj/Debug/net8.0/SagaRejection.Contracts.pdb
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/SagaRejectionModule/SagaRejection.Contracts/obj/Debug/net8.0/ref/SagaRejection.Contracts.dll

@@ -1,0 +1,17 @@
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/PersonModule/Persons.Contracts/bin/Debug/net8.0/Persons.Contracts.deps.json
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/PersonModule/Persons.Contracts/bin/Debug/net8.0/Persons.Contracts.dll
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/PersonModule/Persons.Contracts/bin/Debug/net8.0/Persons.Contracts.pdb
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/PersonModule/Persons.Contracts/bin/Debug/net8.0/Persons.Domain.dll
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/PersonModule/Persons.Contracts/bin/Debug/net8.0/Shared.Abstractions.dll
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/PersonModule/Persons.Contracts/bin/Debug/net8.0/Persons.Domain.pdb
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/PersonModule/Persons.Contracts/bin/Debug/net8.0/Shared.Abstractions.pdb
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/PersonModule/Persons.Contracts/obj/Debug/net8.0/Persons.Contracts.csproj.AssemblyReference.cache
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/PersonModule/Persons.Contracts/obj/Debug/net8.0/Persons.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/PersonModule/Persons.Contracts/obj/Debug/net8.0/Persons.Contracts.AssemblyInfoInputs.cache
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/PersonModule/Persons.Contracts/obj/Debug/net8.0/Persons.Contracts.AssemblyInfo.cs
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/PersonModule/Persons.Contracts/obj/Debug/net8.0/Persons.Contracts.csproj.CoreCompileInputs.cache
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/PersonModule/Persons.Contracts/obj/Debug/net8.0/Persons..CBDD5757.Up2Date
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/PersonModule/Persons.Contracts/obj/Debug/net8.0/Persons.Contracts.dll
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/PersonModule/Persons.Contracts/obj/Debug/net8.0/refint/Persons.Contracts.dll
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/PersonModule/Persons.Contracts/obj/Debug/net8.0/Persons.Contracts.pdb
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/PersonModule/Persons.Contracts/obj/Debug/net8.0/ref/Persons.Contracts.dll

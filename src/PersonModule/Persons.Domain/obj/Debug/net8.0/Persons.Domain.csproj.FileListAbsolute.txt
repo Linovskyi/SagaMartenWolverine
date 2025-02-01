@@ -1,0 +1,15 @@
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/PersonModule/Persons.Domain/bin/Debug/net8.0/Persons.Domain.deps.json
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/PersonModule/Persons.Domain/bin/Debug/net8.0/Persons.Domain.dll
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/PersonModule/Persons.Domain/bin/Debug/net8.0/Persons.Domain.pdb
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/PersonModule/Persons.Domain/bin/Debug/net8.0/Shared.Abstractions.dll
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/PersonModule/Persons.Domain/bin/Debug/net8.0/Shared.Abstractions.pdb
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/PersonModule/Persons.Domain/obj/Debug/net8.0/Persons.Domain.csproj.AssemblyReference.cache
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/PersonModule/Persons.Domain/obj/Debug/net8.0/Persons.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/PersonModule/Persons.Domain/obj/Debug/net8.0/Persons.Domain.AssemblyInfoInputs.cache
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/PersonModule/Persons.Domain/obj/Debug/net8.0/Persons.Domain.AssemblyInfo.cs
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/PersonModule/Persons.Domain/obj/Debug/net8.0/Persons.Domain.csproj.CoreCompileInputs.cache
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/PersonModule/Persons.Domain/obj/Debug/net8.0/Persons..B11F3946.Up2Date
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/PersonModule/Persons.Domain/obj/Debug/net8.0/Persons.Domain.dll
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/PersonModule/Persons.Domain/obj/Debug/net8.0/refint/Persons.Domain.dll
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/PersonModule/Persons.Domain/obj/Debug/net8.0/Persons.Domain.pdb
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/PersonModule/Persons.Domain/obj/Debug/net8.0/ref/Persons.Domain.dll

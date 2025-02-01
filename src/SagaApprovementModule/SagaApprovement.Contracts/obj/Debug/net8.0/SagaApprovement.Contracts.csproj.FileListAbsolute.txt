@@ -1,0 +1,11 @@
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/SagaApprovementModule/SagaApprovement.Contracts/bin/Debug/net8.0/SagaApprovement.Contracts.deps.json
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/SagaApprovementModule/SagaApprovement.Contracts/bin/Debug/net8.0/SagaApprovement.Contracts.dll
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/SagaApprovementModule/SagaApprovement.Contracts/bin/Debug/net8.0/SagaApprovement.Contracts.pdb
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/SagaApprovementModule/SagaApprovement.Contracts/obj/Debug/net8.0/SagaApprovement.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/SagaApprovementModule/SagaApprovement.Contracts/obj/Debug/net8.0/SagaApprovement.Contracts.AssemblyInfoInputs.cache
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/SagaApprovementModule/SagaApprovement.Contracts/obj/Debug/net8.0/SagaApprovement.Contracts.AssemblyInfo.cs
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/SagaApprovementModule/SagaApprovement.Contracts/obj/Debug/net8.0/SagaApprovement.Contracts.csproj.CoreCompileInputs.cache
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/SagaApprovementModule/SagaApprovement.Contracts/obj/Debug/net8.0/SagaApprovement.Contracts.dll
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/SagaApprovementModule/SagaApprovement.Contracts/obj/Debug/net8.0/refint/SagaApprovement.Contracts.dll
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/SagaApprovementModule/SagaApprovement.Contracts/obj/Debug/net8.0/SagaApprovement.Contracts.pdb
+/Users/v.polinovsky/Documents/Repository/SagaMartenWolverine/src/SagaApprovementModule/SagaApprovement.Contracts/obj/Debug/net8.0/ref/SagaApprovement.Contracts.dll
